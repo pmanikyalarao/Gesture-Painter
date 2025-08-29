@@ -35,7 +35,7 @@ Follow these steps to set up and run the project on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/pmanikyalarao/Gesture-Painter.git](https://github.com/pmanikyalarao/Gesture-Painter.git)
+    git clone https://github.com/pmanikyalarao/Gesture-Painter.git
     cd Gesture-Painter
     ```
 
